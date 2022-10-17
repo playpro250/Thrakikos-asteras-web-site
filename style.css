@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    background-color: #200772;
+    color: white;
+}
+
+.gallery{
+    background-color: #035c19;
+}
+
+ul {
+    font-size: 20px;
+}
+
+footer {
+    background-color: #02701d;
+    padding: 10px;
+}
+
+footer img {
+    width: 60px;
+}
+
+
