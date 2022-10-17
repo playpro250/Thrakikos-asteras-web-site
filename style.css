@@ -1,5 +1,7 @@
+
 body {
     font-family: sans-serif;
+    background-color: lightgreen;
 }
 
 h1 {
@@ -10,6 +12,8 @@ h1 {
 
 .gallery{
     background-color: #035c19;
+    margin-left: 200px;
+    margin-right: 200px;
 }
 
 ul {
@@ -24,5 +28,8 @@ footer {
 footer img {
     width: 60px;
 }
+
+
+
 
 
